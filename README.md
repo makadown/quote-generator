@@ -2,6 +2,9 @@
 
 Ejercicio 1 de curso de Javascript portfolio
 
+publicado en https://makadown.github.io/quote-generator/
+
+
 ## Sitios de apoyo para este proyecto
 
 Para customizar nuestro propio background 
